@@ -1,3 +1,5 @@
+(forked feature: chunked reading) 
+
 # @isomorphic-git/lightning-fs
 
 A lean and fast 'fs' for the browser
